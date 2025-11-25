@@ -1,1 +1,0 @@
-# hiring-fullstack-todo
